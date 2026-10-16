@@ -1,0 +1,37 @@
+Task : create any 5 clsses add atleast 2 attributes and methods
+
+class Bus:
+    seat = 40
+    conductor = "C1"
+
+    Drive()
+    stop()
+
+class Mobile:
+    ram = "4GB"
+    screen = "7 inch"
+
+    call()
+    vedio()
+
+class container:
+    lid
+    shape
+
+    store()
+    empty()
+
+
+class person:
+    name
+    age
+
+    work()
+    sleep()
+
+class Ticket
+    id 
+    price
+
+    book_ticket()
+    cancel_ticket()
